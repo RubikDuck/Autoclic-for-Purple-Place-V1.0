@@ -1,18 +1,8 @@
-Hello, if you came this far it is because you are as obsessed as I am, and you are looking for a way to obtain an achievement in the Purple Place game on Steam. The achievement is "Very Sharp Eye".
-
 THE CODE IS MADE TO WORK ON 1920 X 1080 SCREENS (I don't know how it will react with smaller screens)
 
 Requirements:
 1. Have Visual Studio Code installed, with the extensions: "Python" and "Jupiter".
 2. You must have the following modules installed: "Mouse", "Time" and "Keyboard".
-
-I created this code that simulates the following sequence within the game automatically:
-1. Enter the clothing minigame.
-2. Choose clothes.
-3. Check if it is correct.
-4. Return to the main menu.
-5. Repeat.
-This sequence is defaulted to repeat 3125 times (you can increase the value if you want) and starts 4 seconds after you execute it, but you can stop it by holding down the letter "q" for 7 seconds.
 
 Instructions:
 1. Open the code with Visual Studio Code and minimize its size.
